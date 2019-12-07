@@ -3,19 +3,22 @@
 		"name" : "Faith",
 		"title" : "Iman",
 		"tagline" : "The fundamental things about your faith.",
-		"level" : "basic"
+		"level" : "basic",
+		"color" : "green"
 	},
 	{
 		"name" : "Purification",
 		"title" : "Purification",
 		"tagline" : "How to maintain the purified state of body",
-		"level" : "basic"
+		"level" : "basic",
+		"color" : "blue"
 	},
 	{
 		"name" : "Prayer",
 		"title" : "Salah",
 		"tagline" : "The five time worship in a day",
-		"level" : "basic"
+		"level" : "basic",
+		"color" : "purple"
 	}
 
 ]
