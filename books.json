@@ -13,7 +13,7 @@
 		"title" : "Purification",
 		"tagline" : "How to maintain the purified state of body",
 		"level" : "basic",
-		"color" : "blue"
+		"color" : "green"
 	},
 	{
 		"name" : "Prayer",
@@ -21,7 +21,7 @@
 		"title" : "Salah",
 		"tagline" : "The five time worship in a day",
 		"level" : "basic",
-		"color" : "purple"
+		"color" : "green"
 	},
 	{
 		"name" : "Faith",
@@ -45,7 +45,7 @@
 		"title" : "Salah",
 		"tagline" : "The five time worship in a day",
 		"level" : "basic",
-		"color" : "purple"
+		"color" : "green"
 	},
 	{
 		"name" : "Faith",
@@ -61,7 +61,7 @@
 		"title" : "Purification",
 		"tagline" : "How to maintain the purified state of body",
 		"level" : "basic",
-		"color" : "blue"
+		"color" : "green"
 	},
 	{
 		"name" : "Prayer",
@@ -69,7 +69,7 @@
 		"title" : "Salah",
 		"tagline" : "The five time worship in a day",
 		"level" : "basic",
-		"color" : "purple"
+		"color" : "green"
 	}
 
 ]
