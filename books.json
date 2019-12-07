@@ -1,0 +1,21 @@
+[
+	{
+		"name" : "Iman",
+		"title" : "Faith",
+		"tagline" : "The fundamental things about your faith.",
+		"level" : "basic",
+	},
+	{
+		"name" : "Purification",
+		"title" : "Purification",
+		"tagline" : "How to maintain the purified state of body",
+		"level" : "basic",
+	},
+	{
+		"name" : "Prayer",
+		"title" : "Salah",
+		"tagline" : "The five time worship in a day",
+		"level" : "basic",
+	},
+
+]
