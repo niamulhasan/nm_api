@@ -1,6 +1,7 @@
 [
 	{
 		"name" : "Faith",
+		"arbic" : "إيمان",
 		"title" : "Iman",
 		"tagline" : "The fundamental things about your faith.",
 		"level" : "basic",
@@ -8,6 +9,7 @@
 	},
 	{
 		"name" : "Purification",
+		"arbic" : "تنقية",
 		"title" : "Purification",
 		"tagline" : "How to maintain the purified state of body",
 		"level" : "basic",
@@ -15,6 +17,7 @@
 	},
 	{
 		"name" : "Prayer",
+		"arbic" : "صلاة",
 		"title" : "Salah",
 		"tagline" : "The five time worship in a day",
 		"level" : "basic",
