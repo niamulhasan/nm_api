@@ -5,7 +5,8 @@
 		"title" : "Iman",
 		"tagline" : "The fundamental things about your faith.",
 		"level" : "basic",
-		"color" : "green"
+		"color" : "green",
+		"icon" : "award"
 	},
 	{
 		"name" : "Purification",
@@ -13,7 +14,8 @@
 		"title" : "Purification",
 		"tagline" : "How to maintain the purified state of body",
 		"level" : "basic",
-		"color" : "green"
+		"color" : "green",
+		"icon" : "envira"
 	},
 	{
 		"name" : "Prayer",
@@ -21,7 +23,8 @@
 		"title" : "Salah",
 		"tagline" : "The five time worship in a day",
 		"level" : "basic",
-		"color" : "green"
+		"color" : "green",
+		"icon" : "heart"
 	},
 	{
 		"name" : "Faith",
@@ -29,7 +32,8 @@
 		"title" : "Iman",
 		"tagline" : "The fundamental things about your faith.",
 		"level" : "basic",
-		"color" : "green"
+		"color" : "green",
+		"icon" : "award"
 	},
 	{
 		"name" : "Purification",
@@ -37,7 +41,8 @@
 		"title" : "Purification",
 		"tagline" : "How to maintain the purified state of body",
 		"level" : "basic",
-		"color" : "green"
+		"color" : "green",
+		"icon" : "envira"
 	},
 	{
 		"name" : "Prayer",
@@ -45,7 +50,8 @@
 		"title" : "Salah",
 		"tagline" : "The five time worship in a day",
 		"level" : "basic",
-		"color" : "green"
+		"color" : "green",
+		"icon" : "heart"
 	},
 	{
 		"name" : "Faith",
@@ -53,7 +59,8 @@
 		"title" : "Iman",
 		"tagline" : "The fundamental things about your faith.",
 		"level" : "basic",
-		"color" : "green"
+		"color" : "green",
+		"icon" : "award"
 	},
 	{
 		"name" : "Purification",
@@ -61,7 +68,8 @@
 		"title" : "Purification",
 		"tagline" : "How to maintain the purified state of body",
 		"level" : "basic",
-		"color" : "green"
+		"color" : "green",
+		"icon" : "envira"
 	},
 	{
 		"name" : "Prayer",
@@ -69,7 +77,35 @@
 		"title" : "Salah",
 		"tagline" : "The five time worship in a day",
 		"level" : "basic",
-		"color" : "green"
-	}
+		"color" : "green",
+		"icon" : "heart"
+	},
+	{
+		"name" : "Faith",
+		"arbic" : "إيمان",
+		"title" : "Iman",
+		"tagline" : "The fundamental things about your faith.",
+		"level" : "basic",
+		"color" : "green",
+		"icon" : "award"
+	},
+	{
+		"name" : "Purification",
+		"arbic" : "تنقية",
+		"title" : "Purification",
+		"tagline" : "How to maintain the purified state of body",
+		"level" : "basic",
+		"color" : "green",
+		"icon" : "envira"
+	},
+	{
+		"name" : "Prayer",
+		"arbic" : "صلاة",
+		"title" : "Salah",
+		"tagline" : "The five time worship in a day",
+		"level" : "basic",
+		"color" : "green",
+		"icon" : "heart"
+	},
 
 ]
